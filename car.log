@@ -1,0 +1,21 @@
+2026-09-28 11:44:33,768 - INFO - Car started successfully - Event 96
+2026-09-28 11:44:33,824 - INFO - Car started successfully - Event 97
+2026-09-28 11:44:33,858 - INFO - Car started successfully - Event 98
+2026-09-28 11:44:33,907 - INFO - Car started successfully - Event 99
+2026-09-28 11:46:15,718 - WARNING - Car fuel level is low
+2026-09-28 11:46:15,719 - WARNING - Car needs service
+2026-09-28 11:46:15,719 - WARNING - Car engine temperature is high
+2026-09-28 12:05:53,982 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 12:05:54,007 - WARNING - No such comm: 70d41b44-781f-4b7e-8fdb-913980b30f7e
+2026-09-28 12:06:51,060 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 12:06:51,089 - WARNING - No such comm: db9ac78e-1f5c-493a-8f28-24731b0acae5
+2026-09-28 12:14:11,098 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 12:14:11,106 - WARNING - No such comm: ef85b968-68f9-4c20-a5d7-bfe140b1a6d4
+2026-09-28 12:15:21,732 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 12:15:21,742 - WARNING - No such comm: 95c90967-e596-442e-a0fe-da963dd81d49
+2026-09-28 12:29:40,632 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 12:29:40,660 - WARNING - No such comm: b1fe238a-0053-4f92-9514-482c77216159
+2026-09-28 13:24:10,099 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 13:24:10,103 - WARNING - No such comm: 25ced7fa-bb4a-41a7-8ea9-7757014738c2
+2026-09-28 13:28:10,943 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 13:28:10,964 - WARNING - No such comm: 40157f8d-c203-4283-ac0f-86ffaea2187f
