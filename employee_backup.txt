@@ -1,3 +1,0 @@
-Car Model: BMW
-Fuel: Petrol
-Status: Running
